@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.navigationItem.title=@"第二个导航";
+    self.navigationItem.title=@"第一个导航";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
